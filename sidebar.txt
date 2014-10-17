@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nup:home|Door43 (nup)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nup|d43-nup repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nup/archive/master.zip|d43-nup.zip]]
+
+**Recent Changes**
+{{changes>ns = nup}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nup|Ethnologue data]]
+
